@@ -1,0 +1,265 @@
+{
+    "city_daily_wages": [
+        {
+            "start_date": "2024-01-01",
+            "end_date": "2024-08-31",
+            "wage": 165545
+        },
+        {
+            "start_date": "2023-09-01",
+            "end_date": "2023-12-31",
+            "wage": 161858
+        },
+        {
+            "start_date": "2023-01-01",
+            "end_date": "2023-08-31",
+            "wage": 157068
+        },
+        {
+            "start_date": "2022-09-01",
+            "end_date": "2022-12-31",
+            "wage": 153671
+        },
+        {
+            "start_date": "2022-01-01",
+            "end_date": "2022-08-31",
+            "wage": 148510
+        },
+        {
+            "start_date": "2021-09-01",
+            "end_date": "2021-12-31",
+            "wage": 144481
+        },
+        {
+            "start_date": "2021-01-01",
+            "end_date": "2021-08-31",
+            "wage": 141096
+        },
+        {
+            "start_date": "2020-09-01",
+            "end_date": "2020-12-31",
+            "wage": 138989
+        },
+        {
+            "start_date": "2020-01-01",
+            "end_date": "2020-08-31",
+            "wage": 138290
+        },
+        {
+            "start_date": "2019-09-01",
+            "end_date": "2019-12-31",
+            "wage": 130264
+        },
+        {
+            "start_date": "2019-01-01",
+            "end_date": "2019-08-31",
+            "wage": 125427
+        },
+        {
+            "start_date": "2018-09-01",
+            "end_date": "2018-12-31",
+            "wage": 118130
+        },
+        {
+            "start_date": "2018-01-01",
+            "end_date": "2018-08-31",
+            "wage": 109819
+        }
+    ],
+
+
+    "rural_daily_wages": [
+        {
+            "start_date": "2023-10-01",
+            "end_date": "2023-12-31",
+            "wage": {
+                "male": 149538,
+                "female": 117246
+            }
+        },
+        {
+            "start_date": "2023-07-01",
+            "end_date": "2023-09-30",
+            "wage": {
+                "male": 148670,
+                "female": 116842
+            }
+        },
+        {
+            "start_date": "2023-04-01",
+            "end_date": "2023-06-30",
+            "wage": {
+                "male": 148452,
+                "female": 116173
+            }
+        },
+        {
+            "start_date": "2023-01-01",
+            "end_date": "2023-03-31",
+            "wage": {
+                "male": 146019,
+                "female": 113301
+            }
+        },
+        {
+            "start_date": "2022-10-01",
+            "end_date": "2022-12-31",
+            "wage": {
+                "male": 144321,
+                "female": 112560
+            }
+        },
+        {
+            "start_date": "2022-07-01",
+            "end_date": "2022-09-30",
+            "wage": {
+                "male": 143351,
+                "female": 111232
+            }
+        },
+        {
+            "start_date": "2022-04-01",
+            "end_date": "2022-06-30",
+            "wage": {
+                "male": 139324,
+                "female": 106777
+            }
+        },
+        {
+            "start_date": "2022-01-01",
+            "end_date": "2022-03-31",
+            "wage": {
+                "male": 131584,
+                "female": 98493
+            }
+        },
+        {
+            "start_date": "2021-10-01",
+            "end_date": "2021-12-31",
+            "wage": {
+                "male": 130997,
+                "female": 98223
+            }
+        },
+        {
+            "start_date": "2021-07-01",
+            "end_date": "2021-09-30",
+            "wage": {
+                "male": 129150,
+                "female": 96144
+            }
+        },
+        {
+            "start_date": "2021-04-01",
+            "end_date": "2021-06-30",
+            "wage": {
+                "male": 126282,
+                "female": 93134
+            }
+        },
+        {
+            "start_date": "2021-01-01",
+            "end_date": "2021-03-31",
+            "wage": {
+                "male": 122431,
+                "female": 87803
+            }
+        },
+        {
+            "start_date": "2020-10-01",
+            "end_date": "2020-12-31",
+            "wage": {
+                "male": 122379,
+                "female": 88272
+            }
+        },
+        {
+            "start_date": "2020-07-01",
+            "end_date": "2020-09-30",
+            "wage": {
+                "male": 120193,
+                "female": 85577
+            }
+        },
+        {
+            "start_date": "2020-04-01",
+            "end_date": "2020-06-30",
+            "wage": {
+                "male": 118977,
+                "female": 84715
+            }
+        },
+        {
+            "start_date": "2020-01-01",
+            "end_date": "2020-03-31",
+            "wage": {
+                "male": 116650,
+                "female": 82637
+            }
+        },
+        {
+            "start_date": "2019-10-01",
+            "end_date": "2019-12-31",
+            "wage": {
+                "male": 117363,
+                "female": 82640
+            }
+        },
+        {
+            "start_date": "2019-07-01",
+            "end_date": "2019-09-30",
+            "wage": {
+                "male": 117599,
+                "female": 82385
+            }
+        },
+        {
+            "start_date": "2019-04-01",
+            "end_date": "2019-06-30",
+            "wage": {
+                "male": 117536,
+                "female": 81316
+            }
+        },
+        {
+            "start_date": "2019-01-01",
+            "end_date": "2019-03-31",
+            "wage": {
+                "male": 116126,
+                "female": 79718
+            }
+        },
+        {
+            "start_date": "2018-10-01",
+            "end_date": "2018-12-31",
+            "wage": {
+                "male": 115573,
+                "female": 79466
+            }
+        },
+        {
+            "start_date": "2018-07-01",
+            "end_date": "2018-09-30",
+            "wage": {
+                "male": 114993,
+                "female": 78667
+            }
+        },
+        {
+            "start_date": "2018-04-01",
+            "end_date": "2018-06-30",
+            "wage": {
+                "male": 114048,
+                "female": 77563
+            }
+        },
+        {
+            "start_date": "2018-01-01",
+            "end_date": "2018-03-31",
+            "wage": {
+                "male": 112145,
+                "female": 75048
+            }
+        }
+    ]
+}
