@@ -35,6 +35,7 @@ class LossGui:
         tk.Label(self.developer_tab, text="개발자: pimedi").pack(pady=10)
         tk.Label(self.developer_tab, text="이 프로그램은 개발자 본인의 피해를 산출하기 위해 개발되었습니다.").pack(pady=10)
         tk.Label(self.developer_tab, text="pimedi314@gmail.com").pack(pady=10)
+        tk.Label(self.developer_tab, text="https://github.com/pimedi/lossgui").pack(pady=10)
 
     def create_calculation_tab(self):
         self.labels = {}
@@ -72,7 +73,7 @@ class LossGui:
         self.labels['daily_wage'].grid(row=5, column=0, pady=5, padx=5)
         self.entries['daily_wage'] = tk.Entry(self.calculation_tab, width=10)
         self.entries['daily_wage'].grid(row=5, column=1, pady=5, padx=5)
-        self.entries['daily_wage'].insert(0, "3000000")  # 예시 데이터
+        self.entries['daily_wage'].insert(0, "150000")  # 예시 데이터
 
         self.labels['monthly_work_days'] = tk.Label(self.calculation_tab, text="월평균 노동일수:")
         self.labels['monthly_work_days'].grid(row=6, column=0, pady=5, padx=5)
